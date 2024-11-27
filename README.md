@@ -1,5 +1,9 @@
 # Simple-Space-Invaders
 Beginner-level space invaders' inspired game. 
+
+Must install:
+pygame
+
 Includes:
 1. A Player
    - Controls with left and right arrow.
