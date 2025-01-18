@@ -3,7 +3,7 @@ Beginner-level space invaders' inspired game. The game is too big (94mb) to be p
 1. Make a game.
 2. Turn it into executables.
 
-I believe I have completed the goal
+I believe I have completed the goal, regardless of the aesthetic and marketability of the game.
 
 Must install:
 pygame
