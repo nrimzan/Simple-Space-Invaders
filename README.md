@@ -1,5 +1,9 @@
 # Simple-Space-Invaders
-Beginner-level space invaders' inspired game. 
+Beginner-level space invaders' inspired game. The game is too big (94mb) to be put here. The goal was to:
+1. Make a game.
+2. Turn it into executables.
+
+I believe I have completed the goal
 
 Must install:
 pygame
@@ -14,3 +18,4 @@ Includes:
 3. Bullets
     - Limited bullets on screen at a time.
     - Player cannot spam the spacebar to shoots unlimited bullet.
+
